@@ -1,1 +1,315 @@
-According to the Employment Act of Uganda, employees are entitled to maternity leave of at least sixty working days.
+Employment Act of Uganda
+An Act to revise and consolidate the laws governing individual employment relationships, and to provide for other connected matters.
+BE IT ENACTED by Parliament as follows:
+Part I – Preliminary
+1. Commencement
+This Act shall come into force on a date to be appointed by the Minister by statutory instrument.
+2. Interpretation
+In this Act, unless the context otherwise requires—
+“affiliated union” means any Labour Union affiliated to a Federation of Labour Unions;
+“business” includes any trade, profession, undertaking, operation or establishment, whether public, co-operative or private;
+“casual employee” means a person who works on a daily or hourly basis where payment of wages is due at the completion of each day’s work;
+“child” means a person below the age of eighteen years;
+“Commissioner” means the Commissioner in the Ministry responsible for labour;
+“continuous service” means an employee’s service with the same employer as defined in Part VIII;
+“contract of apprenticeship” means a contract of service—
+(a)
+where there is an obligation on the employer to take all reasonable steps to ensure that the employee is taught, and acquires, the knowledge and skills of that industry, by means of practical training received in the course of the employee’s employment; and
+(b)
+where there is a provision for formal recognition of the fact that the employee has acquired the knowledge and skills, intended to be acquired when the employee has done so;
+“contract of service” means any contract, whether oral or in writing, whether express or implied, where a person agrees in return for remuneration, to work for an employer and includes a contract of apprenticeship;
+“currency point” means the value specified in relation to currency point in Schedule 2;
+“dependent relative” means a member of an employee’s family who substantially depends on that employee for his or her livelihood;
+“disability” means any permanent—
+(a)
+physical disability or impairment;
+(b)
+physical illness;
+(c)
+psychiatric illness;
+(d)
+intellectual or psychological disability or impairment;
+(e)
+loss or abnormality of physiological, psychological or anatomical structural function;
+(f)
+reliance on a guide dog, wheelchair, or any other remedial means; and
+(g)
+presence in the body of organisms capable of causing illness;
+“Disciplinary Code” means the code set out in Schedule 1;
+“dismissal from employment” means the discharge of an employee from employment at the initiative of his or her employer when the said employee has committed verifiable misconduct;
+“employee” means any person who has entered into a contract of service or an apprenticeship contract, including, without limitation, any person who is employed by or for the Government of Uganda, including the Uganda Public Service, a local authority or a parastatal organisation but excludes a member of the Uganda Peoples’ Defence Forces.
+“employer” means any person or group of persons, including a company or corporation, a public, regional or local authority, a governing body of an unincorporated association, a partnership, parastatal organisation or other institution or organisation whatsoever, for whom an employee works or has worked, or normally worked or sought to work, under a contract of service, and includes the heirs, successors, assignees and, transferors of any person or group of persons for whom an employee works, has worked, or normally works;
+“forced and compulsory labour” means all work or service which is extracted from any person under the threat of a penalty, including the threat of any loss of rights or privileges and for which that person has not offered himself or herself voluntarily;
+“HIV” means Human Immune-Deficiency Virus;
+“Industrial Court” means the Industrial Court established by the Trade Disputes (Arbitration and Settlement) Act, 2006;
+“labour officer” means the Commissioner or a District Labour officer;
+“labour union” means a labour union registered under the Labour Unions Act, 2006;
+“light work” means work that is not physically, mentally, and socially injurious to the child;
+“migrant worker” means a person who migrates or has migrated from one country to another with a view to being employed by another person and includes any person regularly admitted as a migrant worker;
+“mine” means any undertaking, whether public or private, for the extraction of any substance from on or under the surface of the earth by means involving the employment of persons underground;
+“Minister” means the Minister responsible for labour matters;
+“pay period” means the relevant period, whether of a day, week, fortnight or month by reference to which an employee is entitled to receive his or her wages;
+“parties” means the parties to a contract of service;
+“President” means the President of Uganda;
+“probationary contract” means a contract of employment, which is not of more than six months duration, is in writing and expressly states that it is for a probationary period;
+“public service” means service by or for the Government of Uganda and includes persons employed in the public service, parastatal organisations and local authorities, but does not include a member of the Uganda Peoples’ Defence Forces;
+“qualified medical practitioner” means a Government medical officer or a registered medical practitioner;
+“recruitment” includes all operations undertaken with the object of obtaining or supplying the labour of persons who do not continuously offer their services at the place of employment;
+“regulations” means regulations made under section 97;
+“termination of employment” means the discharge of an employee from an employment at the initiative of the employer for justifiable reasons other than misconduct, such as, expiry of contract, attainment of retirement age, etc;
+“termination” has the meaning given by section 65;
+“union member” means a member of a Labour Union or other organisation representative of the interests of workers;
+“wages” means remuneration or earnings, however designated or calculated, capable of being expressed in terms of money and fixed by mutual agreement or by national laws or regulations, which are payable under an oral or written contract of service for work done or to be done, or for services rendered or to be rendered but excluding any contributions made or to be made by the employer in respect of his or her employee’s insurance, medical care, welfare, education, training, invalidity, retirement pension, post-service gratuity or severance allowance;
+“week” means a period of seven consecutive days.
+3. Application of the Act
+(1)
+Except as otherwise provided in this Act, this Act applies to all employees employed by an employer under a contract of service.
+(2)
+This Act does not apply to—
+(a)
+employers and their dependent relatives when dependant relatives are the only employees in a family undertaking, as long as the total number of dependent relatives does not exceed five; and
+(b)
+the Uganda Peoples’ Defence Forces, other than their civilian employees.
+(3)
+The Minister may, after consultation with the Labour Advisory Board and after taking due account of all Conventions and other international instruments ratified by Uganda, by regulations exclude from the application of all or part of this Act, limited categories of employed persons in respect of whom special problems of a substantial nature arise.
+(4)
+The Minister may, after consultation with the Labour Advisory Board, by regulations exclude from the application of all or part of this Act, categories of employed persons whose terms and conditions of employment are governed by special arrangements, provided those arrangements afford protection that is equivalent to or better than the provisions of this Act from which those categories are being excluded.
+(5)
+Except where the contrary is provided, nothing in this Act applies to employment outside Uganda.
+4. Provisions in agreement
+Any provision in an agreement, or a contract of service shall be void where it—
+(a)
+excludes or limits the operation of any provision of this Act to the detriment of the employee; or
+(b)
+precludes any person from—
+(i)
+presenting a complaint under this Act to a labour officer;
+(ii)
+initiating or enforcing any proceedings under this Act; or
+(iii)
+giving evidence in connection with any such complaints or proceedings referred to in paragraphs (ii) and (iii) unless that provision forms part of a written agreement for the settlement of a dispute that has been approved by a labour officer as fair and reasonable in all the circumstances.
+Part II – General principles
+5. Forced labour
+(1)
+No person shall use or assist any other person, in using forced or compulsory labour.
+(2)
+The term “forced or compulsory labour “ does not include-
+(a)
+any work or service extracted by virtue of compulsory military service laws for work of a purely military character;
+(b)
+any work or service which forms part of the normal civic obligations of the citizens of Uganda;
+(c)
+any work or service extracted from any person as a consequence of a conviction by a court of law, provided that the work or service is carried out under the supervision and control of a public authority and that the person is not hired out to or placed at the disposal of a private individual, company or association;
+(d)
+any work or service extracted in cases of an emergency, such as in the event of war or disaster or threat of calamity in any circumstance that would endanger the existence or the well-being of the whole or part of the population.
+(3)
+A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding forty eight currency points or to two years imprisonment, or both and to a fine of four currency points for each day or part of the day on which the breach continues.
+6. Discrimination in employment
+(1)
+In the interpretation and application of this Act it shall be the duty of all parties, including the Minister, labour officers and the Industrial Court to seek to promote equality of opportunity, with a view to eliminating any discrimination in employment.
+(2)
+Without prejudice to subsection (1), in the interpretation and application of this Act, it shall be the duty of all parties, including the Minister, a labour officer and the Industrial Court, to promote and guarantee equality of opportunity for persons who, as migrant workers, or as members of their families, are lawfully within the territory of Uganda.
+(3)
+Discrimination in employment shall be unlawful and for the purposes of this Act, discrimination includes any distinction, exclusion or preference made on the basis of race, colour, sex, religion, political opinion, national extraction or social origin, the HIV status or disability which has the effect of nullifying or impairing the treatment of a person in employment or occupation, or of preventing an employee from obtaining any benefit under a contract of service.
+(4)
+Any distinction, exclusion or preference in respect of a particular job based on the inherent requirements of that particular job shall not be deemed to be discrimination.
+(5)
+It shall be lawful for the Minister, by regulations to limit the range of jobs open to migrant workers.
+(6)
+The Minister and the Labour Advisory Board shall, in performing their duties, seek to give effect to the principle of equal remuneration for male and female employees for work of equal value.
+(7)
+Every employer shall pay male and female equal remuneration for work of equal value.
+7. Sexual harassment in employment
+(1)
+An employee shall be sexually harassed in that employee’s employment if that employee’s employer, or a representative of that employer—
+(a)
+directly or indirectly makes a request of that employee for sexual intercourse, sexual contact or any other form of sexual activity that contains—
+(i)
+an implied or express promise of preferential treatment in employment;
+(ii)
+an implied or express threat of detrimental treatment in employment;
+(iii)
+an implied or express threat about the present or future employment status of the employee;
+(b)
+uses language whether written or spoken of a sexual nature;
+(c)
+uses visual material of a sexual nature; or
+(d)
+shows physical behaviour of a sexual nature.
+which directly or indirectly subjects the employee to behaviour that is unwelcome or offensive to that employee and that, either by its nature or through repetition, has a detrimental effect on that employee’s employment job performance, or job satisfaction.
+(2)
+If an employee is sexually harassed in any way described in subsection(1) by the employer or employer’s representative, the employee is entitled to lodge a complaint with a labour officer and the labour officer shall have the powers to make all of the orders he or she could have made if the complaint was a complaint about unjustified disciplinary penalty or unjustified dismissal.
+(3)
+For purposes of this section, an employer’s representative is a person who is employed by that employer, who either has authority over the employee alleging sexual harassment or is in a position of authority over other employees in the work place of the employee alleging sexual harassment.
+(4)
+Every employer who employs more than twenty five employees is required to have in place measures to prevent sexual harassment occurring at their work place.
+Part III – Administration and jurisdiction
+8. Labour to administer the Act
+(1)
+The administration of this Act shall be the responsibility of the Directorate of Labour acting under the authority of the Minister, as well as the local authorities as may be required under the Local Governments Act.
+(2)
+The Commissioner may delegate on the request of a district to a district Labour Officer the exercise of any of his or her powers and the performance of any of his or her duties under this Act, generally or in part, and may revoke the delegation by written notice at any time.
+9. Appointment of officers
+(1)
+Subject to any written law relating to the appointment of a person to the public service, there shall be appointed a Commissioner who shall be responsible for the implementation of the provisions of this Act, acting under the directions of the Minister.
+(2)
+Notice of the appointment of a Commissioner shall be published in the Gazette.
+(3)
+The Commissioner shall have all the powers of a labour officer including those set out in sections 11, 12, 14 and 15.
+(4)
+Every District Service Commission shall appoint a district Labour Officer and such other officers, as may be necessary for purposes of administering this Act.
+(5)
+For the avoidance of doubt, every district shall have at least one district Labour Officer.
+10. Labour inspection
+(1)
+The provisions of this section are in addition to and not in derogation of any other powers or duties conferred or imposed on any person by this or any other Act.
+(2)
+A labour officer is empowered to engage in labour inspection which shall include—
+(a)
+securing the enforcement of legal provisions relating to conditions of work and the protection of workers while engaged in their work;
+(b)
+the supply of technical information and advice to employers, employees and their organisations concerning the most effective means of complying with the legal provisions; and
+(c)
+bringing to the notice of the Minister defects or abuses not specifically covered by existing legal provisions.
+11. Powers of labour officer
+(1)
+A labour officer is empowered—
+(a)
+to enter freely and without previous notice at any hour of the day or night, any work place for inspection;
+(b)
+to enter by day, any premises which he or she may have reasonable cause to believe to be liable to inspection; and
+(c)
+to carry out any examination, test or inquiry which he or she may consider necessary in order to satisfy himself or herself that the legal provisions are being strictly observed, and in particular—
+(i)
+to question, alone or in the presence of witnesses, the employer or the staff of the undertaking, on any matters concerning the application of this Act, or other legal provisions made under this Act;
+(ii)
+to require the production of any books, registers or other documents the keeping of which is prescribed by law in order to ascertain whether they are in conformity with the legal provisions, and to copy those documents or make extracts from them;
+(iii)
+to enforce the posting of notices required by law; and
+(iv)
+to take or remove for purposes of analysis, samples of materials and substances used or handled, subject to the employer or his or her representative being notified of any samples or substances taken or removed for that purposes.
+(2)
+Notwithstanding subsection (1), a labour officer shall, where he or she believes that there is a present or imminent danger to the health or safety of the workers, close the work place without the prior approval of the Commissioner except that the labour officer shall inform the Commissioner within forty eight hours of the closure of the work place.
+(3)
+A labour officer may by order, and after the approval of the Commissioner—
+(a)
+require an employer to remedy any defect in the plant layout or working methods which, in the opinion of the labour officer, constitutes a threat to the health or safety of the workers; and
+(b)
+close down a work place or discontinue any work process if he or she is of the opinion that there is imminent danger to the health or safety of the workers.
+(4)
+An order made under subsection (2) and (3) shall be subject to appeal before the Industrial Court.
+(5)
+Except where a labour officer considers it to be prejudicial to the performance of his or her duties, a labour officer shall notify the employer, or their representative immediately on his or her arrival at a working place, for purposes of an inspection visit.
+(6)
+A labour officer acting in good faith is not liable for any loss or cause of action that may arise out of his or her carrying out of the provisions of this section.
+12. Settlement of grievances
+(1)
+Where an employer neglects or refuses to fulfil the terms of a contract of employment, or where a complaint or a labour dispute arises as to the rights or liabilities of either party under a contract of employment or under this Act, the aggrieved party may report the matter to a labour officer.
+(2)
+A labour officer shall on receipt of a report under subsection (1) resolve the matter by agreement between the parties, involving as much as is practically possible in the negotiations, the workers or the Labour Union that may be present at the aggrieved party’s work place.
+13. Labour officer’s power to investigate and dispose of complaints
+(1)
+A labour officer to whom a complaint has been made under this Act shall have the power to—
+(a)
+investigate the complaint and any defence put forward to such a complaint and to settle or attempt to settle any complaint made by way of conciliation, arbitration, adjudication or such procedure as he or she thinks appropriate and acceptable to the parties to the complaint with the involvement of any Labour Union present at the place of work of the complainant; and
+(b)
+require the attendance of any person as a witness or require the production of any document relating to the complaint after reasonable notice has been given;
+(c)
+hold hearings in order to establish whether a complaint is or is not well founded in accordance with this Act or any other law applicable and the labour officer shall, while conducting the hearing employ the most suitable means he or she considers best able to clarify the issues between the parties;
+(d)
+presume the complaint settled if the complainant fails to appear within a specified period; or
+(e)
+adjourn the hearing to another date.
+(2)
+The labour officer shall, while exercising the powers under paragraph (a) state the reasons for his or her decision on a complaint.
+14. Labour officer’s power to prosecute
+(1)
+A labour officer may institute civil or criminal proceedings before the Industrial Court in respect of a contravention or alleged contravention of this Act or regulations made under this Act, and may prosecute and appear in his or her own name in respect of the proceedings.
+(2)
+The rules of evidence shall apply in any criminal proceedings under this Act, but shall not apply in any civil proceedings before the Industrial Court.
+15. Obstruction of officers
+A person commits an offence where he or she—
+(a)
+willfully delays or obstructs any labour officer in the exercise of any power, duty or function under this Act; or
+(b)
+fails to comply with any reasonable directions, order, requirement, request, demand or inquiry of a labour officer, made or given in pursuance of any power conferred upon the labour officer by this Act; or
+(c)
+conceals or otherwise prevents or attempts to conceal any person from appearing before, or being examined by a labour officer.
+16. Criminal offences
+(1)
+A person who records or causes to be recorded wrong, inaccurate or deficient information in an employee’s records of service, whether retained by the employer or communicated to a labour officer, with an intention to defraud the employee or the employer or any public authority, or who acts so as to conceal such fraudulent acts, commits an offence.
+(2)
+It is an offence for an employer or employee to fail, without justifiable cause to reply to a labour officer’s written request for information within a period of fourteen days from the time that request was received by the employer or the employee as the case may be.
+(3)
+Where a court imposes a fine under this section, the court may order part of or all of the fine to be paid to an employee or employer, as the case may be, who has suffered loss as a consequence of the commission of the offence.
+17. Conflict of interest
+A labour officer shall not place himself or herself in any position that involves a conflict of interest.
+18. A labour officer not to reveal trade secrets
+A labour officer shall not reveal, during or after the period of his or her appointment, any manufacturing or commercial secrets or working processes or confidential information which come to his or her knowledge in the performance of his or her duties.
+19. Returns and statistics
+The Commissioner may require an employer to furnish in writing returns and statistics, whether periodical or otherwise, of the number of employees, the rates of remuneration and any other conditions of service affecting such employment.
+20. Annual report
+(1)
+The Commissioner shall publish an annual report of inspection services, covering the following matters—
+(a)
+developments with regard to relevant laws and regulations;
+(b)
+the staff under the jurisdiction of the Commissioner;
+(c)
+statistics of work places liable to inspection and the number of workers employed in the work place;
+(d)
+findings in the course of inspection;
+(e)
+statistics of industrial accidents and occupational diseases;
+(f)
+statistics of people with disabilities in work places and any aids being provided by the employer; and
+(g)
+statistics of proceedings brought before the Industrial Court and of their disposal.
+21. Labour Advisory Board
+(1)
+There is established a Labour Advisory Board which shall consist of—
+(a)
+a Chairperson;
+(b)
+the Commissioner as an ex-officio member;
+(c)
+public officers, and representatives of employers and employees not exceeding ten in total, as the Minister may from time to time appoint, by notice published in the Gazette; and
+(d)
+one representative of persons with disabilities.
+(2)
+Appointments made under this section shall be for a period of three years and except for good cause, no person shall be removed from the Board before the expiry of his or her term of appointment.
+(3)
+The Chairperson of the Labour Advisory Board shall be appointed by the Minister and, shall be a person well versed in labour matters and of high moral calibre.
+(4)
+The representative of employers and employees shall be nominated for appointment to the Labour Advisory Board by the Federations of Employers and Federations of Labour Unions, respectively.
+(5)
+Without prejudice to the generality of the Minister’s power of appointment, there shall be an equal number of representatives of employers and employees appointed to the Labour Advisory Board at any one time.
+(6)
+The Labour Advisory Board shall meet as many times as are necessary for the conduct of its business, but shall meet at intervals of not more than three months between each meeting.
+22. Functions of Board
+(1)
+The functions of the Labour Advisory Board are to advise the Minister on any matter falling under this Act and on any other matters affecting employment and industrial relations as may from time to time be referred to the Board by the Minister.
+(2)
+The Board shall exercise its powers and perform it’s functions in such manner and subject to such conditions set out in the regulations.
+(3)
+Where it is proposed to introduce measures designed to encourage and promote collective bargaining, the Minister shall seek the views of the Labour Advisory Board on the measures, before their introduction.
+(4)
+Subject to subsection (1), the Labour Advisory Board shall advise the Minister on the following—
+(a)
+matters concerning relations between Uganda and the International Labour Organisation, including the making of replies and comments to questionnaires and proposed texts of international labour standards, the taking of action necessary to comply with the obligations of membership of the International Labour Organisation, and any proposed denunciation of a ratified Conventions;
+(b)
+aspects of vocational guidance and vocational training;
+(c)
+matters concerning the operation of the employment service and the development of the employment service policy;
+(d)
+the formulation and development of policies designed to promote the granting of paid educational leave to workers for the purposes of—
+(i)
+training;
+(ii)
+labour union social and civic education, and
+(iii)
+labour union education; and
+(e)
+the formulation and development of a national policy on vocational rehabilitation and the employment of persons with disabilities.
+(5)
+The Minister shall in consultation with, and after approval of the Minister responsible for Finance shall fix the remuneration for the members of the Board.
