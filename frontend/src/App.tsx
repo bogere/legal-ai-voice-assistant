@@ -2,10 +2,11 @@
 // src/App.tsx
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import { Card, CardContent } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
+import { Card, CardContent } from './components/ui/card';
+import { Button } from './components/ui/button';
+import { Input } from './components/ui/input';
+import { Textarea } from './components/ui/textarea';
+import Recorder from './Recorder';
 
 interface LogEntry {
   id: number;
@@ -85,8 +86,9 @@ export default function App() {
   }
 
   return (
-    <div className="max-w-4xl mx-auto py-6 px-4">
-      <h1 className="text-2xl font-bold mb-6">Conversation History</h1>
+      <div className="max-w-4xl mx-auto py-6 px-4">
+        <Recorder/>
+        <h1 className="text-2xl font-bold mb-6">Conversation History</h1>
       {logs.map((log) => (
         <Card key={log.id} className="mb-4">
           <CardContent className="space-y-2">
