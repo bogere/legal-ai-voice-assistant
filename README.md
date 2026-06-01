@@ -1,7 +1,21 @@
-# 🧠 Legal Voice Agent
+# 🧠 LexAI 
 
 An AI-powered voice assistant specialized in the legal industry.  
 It uses **AssemblyAI** for transcription, **RAG (Retrieval-Augmented Generation)** for grounded responses, and tracks conversation quality through logs, ratings, and corrections.
+
+
+### Problem statement
+Uganda's legal ecosystem remains difficult to navigate for many citizens, businesses, and institutions. Legal information is spread across constitutions, acts, regulations, policies, and court decisions, making it time-consuming to access, interpret, and apply. For SMEs and startups in particular, legal support is often too expensive or unavailable until a problem has already occurred. Many businesses operate with poorly understood contracts, limited compliance awareness, and inadequate legal protection.
+While artificial intelligence tools have become more common, they are not designed around Ugandan law and often present challenges such as inaccurate legal information, hallucinations, confidentiality concerns, and shallow analysis of legal documents. This limits their usefulness in professional legal environments and reduces trust among users.
+As Uganda continues its digital transformation journey, there is a growing need for a trusted, locally grounded legal intelligence platform that can help individuals, businesses, legal practitioners, and government institutions access, understand, analyze, and work with legal information more effectively. Addressing this gap has the potential to improve legal accessibility, strengthen compliance, support business formalization, and contribute to a more efficient and digitally enabled legal ecosystem.
+
+### Solution
+LexAI is a Ugandan legal intelligence platform designed to make legal information more accessible, understandable, and actionable for citizens, businesses, legal practitioners, and government institutions. Built on verified Ugandan legal data, including laws, regulations, policies, and judicial decisions, the platform combines artificial intelligence with trusted legal sources to help users navigate legal and compliance challenges with greater confidence.
+The solution enables users to upload and analyze legal documents, identify risks and obligations, receive simplified explanations of complex legal language, and access legal information grounded in Ugandan law. Unlike generic AI tools, LexAI is being designed with a strong focus on trust, confidentiality, source verification, and legal accuracy to address the concerns that currently limit the adoption of AI in legal practice.
+
+By reducing the time, cost, and complexity associated with legal processes, LexAI aims to support SME growth, strengthen compliance, improve access to legal knowledge, and contribute to Uganda's digital transformation agenda. The platform serves as both a professional legal productivity tool and a public legal access resource, helping bridge the gap between legal systems and the people they are meant to serve.
+
+
 
 ## 🚀 Features
 
@@ -126,6 +140,11 @@ Or package with Docker (coming soon).
 - [RAG architecture](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 
 ---
+
+
+## Team 
+Mukitale Frank - Business Operation
+Bogere Goldsoft - Technical 
 
 ## 📝 License
 
