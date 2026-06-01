@@ -143,8 +143,8 @@ Or package with Docker (coming soon).
 
 
 ## Team 
-Mukitale Frank - Business Operation
-Bogere Goldsoft - Technical 
+- Mukitale Frank  - Business Operation
+- Bogere Goldsoft - Technical 
 
 ## 📝 License
 
